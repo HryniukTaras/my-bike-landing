@@ -20,9 +20,10 @@ The landing page includes various sections that users can navigate through:
 - Details: This section provides more detailed information about the bike features.
 - Contact us: Includes contact information and links to social media.
 
-# Demo
+# Links
 
-[View Demo](https://HryniukTaras.github.io/layout_landing-page/)
+- View demo: [GutHub Pages](https://HryniukTaras.github.io/layout_landing-page/)
+- Design Layout: [Figma](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=KQfGH99hQG4ba9ma-0)
 
 To use the project, follow these steps:
 
